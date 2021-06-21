@@ -1,0 +1,204 @@
+.nav {
+	background-color:white;
+}
+#drop {
+	padding:10px;
+	margin:5px;
+}
+
+.navR {
+	text-align:right;
+}
+
+#title {
+	font-weight:bold;
+	font-size:60px;
+	font-family:"Verdana" , sans-serif;
+}
+#p {
+	font-weight:bold;
+	font-size:20px;
+	font-family:"Verdana" , sans-serif;
+}
+.txt {
+	float:right;
+	margin:6%;
+}
+
+.box {
+	padding:9%;
+	text-align:center;
+}
+.HTML {
+	background-color:IndianRed;
+}
+.CSS {
+	background-color:GoldenRod;
+}
+.JavaScript {
+	background-color:Khaki;
+}
+.Python {
+	background-color:Grey;
+}
+.SQL {
+	background-color:DarkSalmon;
+}
+
+
+.list {
+	background-color:CadetBlue;
+}
+#title2 { 
+	font-weight:bold;
+	font-size:30px;
+	font-family:"Verdana" , sans-serif;
+}
+#p2 {
+	font-size:20px;
+	font-family:"Verdana" , sans-serif;
+	
+}
+
+.grid-container {
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	grid-gap:20px;
+	padding:3%;
+}
+.grid-childPHP {
+	background-color:Cyan;
+	text-align:center;
+	
+}
+.grid-childjQuery {
+	background-color:Chocolate;
+	text-align:center;
+}
+
+.grid-container2 {
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	grid-gap:20px;
+	padding:3%;
+}
+.grid-childJava {
+	background-color:DarkGreen;
+	text-align:center;
+}
+.grid-childCC {
+	background-color:DarkMagenta;
+	text-align:center;
+}
+
+.grid-container3 { 
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	grid-gap:20px;
+	padding:3%;
+}
+.grid-childW3 {
+	background-color:DarkBlue;
+	text-align:center;
+}
+.grid-childBootstrap {
+	background-color:FireBrick;
+	text-align:center;
+}
+
+
+.grid-container4 {
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr 1fr;
+	grid-gap:10px;	
+	padding:3%;
+}
+.grid-childsb {
+	width:200px;
+	font-weight:bold;
+	font-size:25px;
+}
+.grid-container5 {
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	grid-gap:10px;
+	padding:5%;
+}
+.grid-childlb {
+	font-weight:bold;
+	font-size:25px;
+} 
+
+#title3 {
+	font-weight:bold;
+	font-size:60px;
+} 
+#p3 {
+	font-size:20px;
+}
+.CP {
+	background-color:Lavender;
+	text-align:center;
+}
+.CG {
+	background-color:LightCyan;
+	text-align:center;
+}
+.ex {
+	background-color:yellow;
+	text-align:center;
+}
+.mb {
+	font-weight:bold;
+	font-size:25px;
+}
+.smb {
+	font-weight:bold;
+	font-size:25px;
+}
+.wt {
+	background-color:pink;
+	text-align:center;
+} 
+
+.box2 {
+	padding:9%;
+	text-align:left;
+}
+#T {
+	font-weight:bold;
+	color:Sienna;
+	font-size:50px;
+}
+#P {
+	font-weight:bold;
+	color:Sienna;
+	font-size:48px;
+}
+.kick {
+	background-color:orange;
+}
+.how {
+	background-color:LimeGreen;
+	text-align:center;
+}
+
+.foot {
+	background-color:Thistle;
+}
+.ft {
+	float:right;
+}
+.F {
+	text-decoration:none;
+}
+.social {
+	float:right;
+}
+#fp {
+	text-align:center;
+	margin:2%;
+}
+.bt {
+	text-align:center;
+}
